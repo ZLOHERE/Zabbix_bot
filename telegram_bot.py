@@ -2,7 +2,7 @@ from telegram import Bot
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 TOKEN = "-"
-CHAT_ID = 1495147972
+CHAT_ID = 456
 bot = Bot(token=TOKEN)
 
 
